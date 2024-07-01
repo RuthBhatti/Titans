@@ -1,0 +1,45 @@
+@import '../../typography/typography.scss';
+
+.sidebar {
+    width: 240px;
+    background-color: #f1f3f4;
+    padding: 20px;
+    height: 100vh;
+}
+.diplay{
+    display: flex;
+    flex-direction: column;
+    
+}
+.new-btn {
+    color: gray;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 44%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    padding: 10px 0;
+    cursor: pointer;
+}
+
+nav li.active {
+    background-color: #e8f0fe;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.sidebar__logo{
+    width: 77%;
+}

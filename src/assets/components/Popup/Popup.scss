@@ -1,0 +1,62 @@
+@import '../../typography/typography.scss';
+
+.popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.popup-inner {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    position: relative;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.popup-title {
+    font-size: 36px;
+    background: -webkit-linear-gradient(left, #4285F4, #EA4335);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: flex;
+    margin: 0;
+}
+
+.popup-subtitle {
+    font-size: 24px;
+    color: #5f6368;
+    display: flex;
+    margin: 0;
+    margin-bottom: 30rem;
+}
+
+.popup-prompt {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid #dadce0;
+    border-radius: 5px;
+    font-size: 16px;
+}
