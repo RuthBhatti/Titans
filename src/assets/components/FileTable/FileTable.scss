@@ -1,11 +1,12 @@
 @import '../../typography/typography.scss';
 
+@import '../../typography/typography.scss';
+
 .files-table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
     font-family: 'Roboto';
-
 }
 
 .files-table th,
@@ -14,7 +15,11 @@
     border-bottom: 1px solid #ddd;
     font-family: 'Roboto';
 }
-
+.owners{
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
 .files-table th {
     text-align: left;
     font-family: 'Roboto';
@@ -35,9 +40,16 @@
     display: flex;
     justify-content: center;
     font-family: 'Roboto';
-
 }
-.incon{
+
+.icon {
+    width: 24px; /* Adjust the size as needed */
+    height: 24px; /* Adjust the size as needed */
+    margin-right: 8px; /* Adjust the spacing as needed */
+    vertical-align: middle;
+}
+
+.incon {
     height: 1rem;
     margin-right: 1rem;
 }
