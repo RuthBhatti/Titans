@@ -6,7 +6,7 @@ Titans is a collaborative project developed during the Google x BrainStation pro
 
 ## 🚀 Features
 
-- **📘 Educational Components:** Designed to help users understand the Gemini AI model.
+**📘 Educational Components:** Designed to help users understand the Gemini AI model.
 - **🔍 User-Friendly Features:** Implemented an optional Gemini search button and informative pop-ups.
 - **🏆 Recognition:** Received an Honorable Mention at the BrainStation x Google Industry Project.
 
