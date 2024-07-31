@@ -2,22 +2,13 @@
   <h1>💡 Titans</h1>
 </div>
 
-## 📖 Project Overview
-
-Titans is a project developed in collaboration with Google and BrainStation, focusing on enhancing user comprehension of the Gemini AI model through educational components in Google Drive and Google Slides. The project was awarded an Honorable Mention at the BrainStation x Google Industry Project.
+Titans is a collaborative project developed during the Google x BrainStation program. The project focused on creating educational components in Google Drive and Google Slides to enhance user comprehension of the Gemini AI model. The team worked to build user-friendly features that promote trust and transparency.
 
 ## 🚀 Features
 
-- **Educational Components:** Designed comprehensive educational materials to aid understanding of the Gemini AI model.
-- **User-Friendly Features:** Implemented features like an optional Gemini search button and informative pop-ups to build user trust and transparency.
-- **Collaborative Design:** Worked with a cross-functional team to ensure a cohesive and effective design strategy.
-
-## 🛠️ Technologies Used
-
-- **JavaScript:** For adding dynamic content and interactivity.
-- **SCSS:** For advanced styling and maintaining a clean and manageable stylesheet.
-- **CSS:** For additional styling.
-- **HTML:** For structuring the web content.
+- **📘 Educational Components:** Designed to help users understand the Gemini AI model.
+- **🔍 User-Friendly Features:** Implemented an optional Gemini search button and informative pop-ups.
+- **🏆 Recognition:** Received an Honorable Mention at the BrainStation x Google Industry Project.
 
 ## 🛠️ Getting Started
 
@@ -47,8 +38,15 @@ To start the development server, run:
 ```bash
 npm run dev
 ```
-The development server will start on `http://localhost:8000`.
+The development server will start on `http://localhost:3000`.
 
-## 📬 Contact
+## 🛠️ Technologies Used
+
+- **JavaScript:** For adding dynamic content and interactivity.
+- **SCSS:** For advanced styling and maintaining a clean and manageable stylesheet.
+- **CSS:** For additional styling.
+- **HTML:** For structuring the web content.
+
+## 📞 Contact
 
 For any inquiries, please reach out to me on [LinkedIn](https://www.linkedin.com/in/ruth-bhatti/).
